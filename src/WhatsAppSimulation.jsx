@@ -134,7 +134,7 @@ export default function WhatsAppSimulation({ onComplete, onCancel }) {
         </div>
 
         {/* Chat Area */}
-        <div className="flex-1 overflow-y-auto p-4 space-y-4 bg-[url('https://user-images.githubusercontent.com/15075759/28719144-86dc0f70-73b1-11e7-911d-60d70fcded21.png')] bg-repeat">
+        <div className="flex-1 overflow-y-auto p-4 space-y-4 bg-medical-light/30">
           
           {/* Incoming: Welcome */}
           <div className="bg-white p-3 rounded-2xl rounded-tl-none shadow-sm max-w-[85%] animate-in slide-in-from-left-4 duration-300">
