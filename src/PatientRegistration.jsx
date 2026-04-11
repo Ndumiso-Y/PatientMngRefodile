@@ -506,7 +506,7 @@ export default function PatientRegistration({ onCancel, onSuccess, preSelectedLa
       </div>
 
       {/* Form Body */}
-      <div className="flex-1 overflow-y-auto p-8 bg-[url('https://www.transparenttextures.com/patterns/hexellence.png')] bg-fixed opacity-95">
+      <div className="flex-1 overflow-y-auto p-8 bg-white/50">
         {renderStep()}
       </div>
 
